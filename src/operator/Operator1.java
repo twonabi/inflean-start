@@ -19,7 +19,7 @@ public class Operator1 {
         System.out.println("a * b = " + multi);
 
         // 나눗셈
-        int div = 5 / 2; // -> 2.5  ( 정수만 출력 가능)
+        int div = a / b; // -> 2.5  ( 정수만 출력 가능)
         System.out.println("a / b = " + div);
 
         // 나머지
